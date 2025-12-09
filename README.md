@@ -4,7 +4,7 @@
 - I'm silly FNF programmer who also ports mods to android with friends.
 - I know: Haxe/HaxeFlixel, Lua, C++ (for a little).
 - Pronouns: They/Them | He/Him 🙂 (i prefer he/him)
-- Age: 18 (I'm Adult lmao 👌
+- Age: 18 (I'm Adult lmao) 👌
 - From Ukraine 🇺🇦
 
 ## Mods Where I'm in/was before
